@@ -313,5 +313,8 @@ footer {
   .infrastructure-image {
     top: -1vw;
   }
+  .header-nav-menu {
+    padding: 0 40px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
